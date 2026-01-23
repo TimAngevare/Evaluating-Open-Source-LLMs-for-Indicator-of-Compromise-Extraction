@@ -1,0 +1,47 @@
+{
+  "text": "Catalina's encrypted backup revealed contact lists from her investigation. One entry stood out: a gallery owner in Brussels with phone number +32 2 555 1234. The owner had allegedly facilitated art sales to shell companies. His assistant could be reached at +32-477-55-6789 for verification. Both numbers were logged alongside a TOX identifier used for private negotiations: 56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5. Cross-referencing with Belgian law enforcement databases showed the gallery had processed payments through a server at 78.141.205.18. Catalina's notes indicated she had spoken with the assistant multiple times before disappearing.",
+  "entities": [
+    {
+      "startOffset": 0,
+      "endOffset": 8,
+      "type": "PERSON",
+      "text": "Catalina"
+    },
+    {
+      "startOffset": 115,
+      "endOffset": 123,
+      "type": "LOCATION",
+      "text": "Brussels"
+    },
+    {
+      "startOffset": 142,
+      "endOffset": 156,
+      "type": "PHONE",
+      "text": "+32 2 555 1234"
+    },
+    {
+      "startOffset": 258,
+      "endOffset": 273,
+      "type": "PHONE",
+      "text": "+32-477-55-6789"
+    },
+    {
+      "startOffset": 375,
+      "endOffset": 451,
+      "type": "TOX",
+      "text": "56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5"
+    },
+    {
+      "startOffset": 572,
+      "endOffset": 585,
+      "type": "IP",
+      "text": "78.141.205.18"
+    },
+    {
+      "startOffset": 587,
+      "endOffset": 595,
+      "type": "PERSON",
+      "text": "Catalina"
+    }
+  ]
+}

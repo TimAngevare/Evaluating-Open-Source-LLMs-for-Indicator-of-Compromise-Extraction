@@ -1,0 +1,41 @@
+{
+  "text": "Catalina's last known contact was:\nc.varga@journalisttruth.org\ncv.editor@riseup.net\nAnna sent a cautious email to both:\nSubject: Regarding the Prague painting\nMs. Varga,\nA mutual contact passed me material you once held. I believe it connects to a Bitcoin trail and a possible laundering route. Please advise if you are safe and able to talk.\n– A.H.\n",
+  "entities": [
+    {
+      "startOffset": 0,
+      "endOffset": 8,
+      "type": "PERSON",
+      "text": "Catalina"
+    },
+    {
+      "startOffset": 35,
+      "endOffset": 62,
+      "type": "EMAIL",
+      "text": "c.varga@journalisttruth.org"
+    },
+    {
+      "startOffset": 63,
+      "endOffset": 83,
+      "type": "EMAIL",
+      "text": "cv.editor@riseup.net"
+    },
+    {
+      "startOffset": 84,
+      "endOffset": 88,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 144,
+      "endOffset": 150,
+      "type": "LOCATION",
+      "text": "Prague"
+    },
+    {
+      "startOffset": 164,
+      "endOffset": 169,
+      "type": "PERSON",
+      "text": "Varga"
+    }
+  ]
+}

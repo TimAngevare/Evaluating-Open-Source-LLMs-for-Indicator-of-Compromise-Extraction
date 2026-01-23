@@ -1,0 +1,29 @@
+{
+  "text": "The files arrived encrypted via a secure folder. Anna decrypted them with a shared key from their college days. Inside was a high-resolution scan of the painting and a text file labeled ciphertrail.txt. After several hours of sifting through the image metadata and running analysis tools, Anna discovered a steganographic message that revealed a partial Bitcoin address: bc1q2gdf0hxk6e5nxp72cr9sv5uwx9a0gz0h3p9a4f. It didn't belong to Marcellus. She double-checked.",
+  "entities": [
+    {
+      "startOffset": 49,
+      "endOffset": 53,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 289,
+      "endOffset": 293,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 371,
+      "endOffset": 413,
+      "type": "BTC",
+      "text": "bc1q2gdf0hxk6e5nxp72cr9sv5uwx9a0gz0h3p9a4f"
+    },
+    {
+      "startOffset": 435,
+      "endOffset": 444,
+      "type": "PERSON",
+      "text": "Marcellus"
+    }
+  ]
+}

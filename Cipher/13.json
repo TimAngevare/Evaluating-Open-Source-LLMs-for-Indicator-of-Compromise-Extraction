@@ -1,0 +1,59 @@
+{
+  "text": "The final piece of evidence arrived via an anonymous upload to hxxps[:]//anonfiles[.]io/evidence/moreno-case-final. Anna and Marcellus discovered that Lance Moreno had maintained a burner phone with number (202) 555-0147 registered to a shell corporation. The phone had connected to cell towers near the galleries on multiple occasions. Traffic analysis showed repeated connections to IP address 91[.]198[.]174[.]192, which hosted an encrypted communication portal. Most damning was a TOX conversation log with ID: 56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5. The conversation explicitly discussed \"cleaning\" Bitcoin payments through art acquisitions. A backup contact email was found: cleanup.operations[at]securemail.ch. Marcellus immediately forwarded everything to international authorities. The evidence was irrefutable.",
+  "entities": [
+    {
+      "startOffset": 63,
+      "endOffset": 114,
+      "type": "URL",
+      "text": "hxxps[:]//anonfiles[.]io/evidence/moreno-case-final"
+    },
+    {
+      "startOffset": 116,
+      "endOffset": 120,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 125,
+      "endOffset": 134,
+      "type": "PERSON",
+      "text": "Marcellus"
+    },
+    {
+      "startOffset": 151,
+      "endOffset": 163,
+      "type": "PERSON",
+      "text": "Lance Moreno"
+    },
+    {
+      "startOffset": 206,
+      "endOffset": 220,
+      "type": "PHONE",
+      "text": "(202) 555-0147"
+    },
+    {
+      "startOffset": 396,
+      "endOffset": 432,
+      "type": "IP",
+      "text": "91[.]198[.]174[.]192"
+    },
+    {
+      "startOffset": 515,
+      "endOffset": 591,
+      "type": "TOX",
+      "text": "56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5"
+    },
+    {
+      "startOffset": 721,
+      "endOffset": 756,
+      "type": "EMAIL",
+      "text": "cleanup.operations[at]securemail.ch"
+    },
+    {
+      "startOffset": 758,
+      "endOffset": 767,
+      "type": "PERSON",
+      "text": "Marcellus"
+    }
+  ] 
+}

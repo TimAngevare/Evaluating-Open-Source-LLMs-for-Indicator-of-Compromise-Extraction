@@ -1,0 +1,29 @@
+{
+  "text": "Curiosity piqued, Anna replied quickly using her secondary account:\nFrom: ahargrove92@pm.me\nTo: m.grant512@tuta.io\nI'm intrigued. Send everything you have.\n– Anna\n",
+  "entities": [
+    {
+      "startOffset": 18,
+      "endOffset": 22,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 74,
+      "endOffset": 91,
+      "type": "EMAIL",
+      "text": "ahargrove92@pm.me"
+    },
+    {
+      "startOffset": 96,
+      "endOffset": 114,
+      "type": "EMAIL",
+      "text": "m.grant512@tuta.io"
+    },
+    {
+      "startOffset": 158,
+      "endOffset": 162,
+      "type": "PERSON",
+      "text": "Anna"
+    }
+  ]
+}

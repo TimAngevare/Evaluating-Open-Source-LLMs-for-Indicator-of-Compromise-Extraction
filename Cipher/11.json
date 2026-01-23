@@ -1,0 +1,47 @@
+{
+  "text": "A new informant reached out using an anonymous ProtonMail account: darktruth2024@protonmail.com. They provided server logs showing connections from 203.0.113.42 to the art gallery's payment portal at https://secure-art-payments.com/checkout. The informant's phone number, given for emergency contact only, was listed as +1-555-867-5309. They also shared a backup Telegram link: https://t.me/+whistleblower_backup_2024. Anna verified the logs were authentic. The IP address 203.0.113.42 had previously been flagged in an Interpol database for suspicious cryptocurrency transactions totaling over 12 BTC.",
+  "entities": [
+    {
+      "startOffset": 67,
+      "endOffset": 95,
+      "type": "EMAIL",
+      "text": "darktruth2024@protonmail.com"
+    },
+    {
+      "startOffset": 148,
+      "endOffset": 160,
+      "type": "IP",
+      "text": "203.0.113.42"
+    },
+    {
+      "startOffset": 200,
+      "endOffset": 240,
+      "type": "URL",
+      "text": "https://secure-art-payments.com/checkout"
+    },
+    {
+      "startOffset": 320,
+      "endOffset": 335,
+      "type": "PHONE",
+      "text": "+1-555-867-5309"
+    },
+    {
+      "startOffset": 378,
+      "endOffset": 417,
+      "type": "URL",
+      "text": "https://t.me/+whistleblower_backup_2024"
+    },
+    {
+      "startOffset": 419,
+      "endOffset": 423,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 473,
+      "endOffset": 485,
+      "type": "IP",
+      "text": "203.0.113.42"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "text": "The reply came later that night. \nCatalina sent them a data dump through a secure onion link—an archive of PDFs, emails, and ledger records tying various art sales to a crypto-exchange in the Seychelles. Hidden inside was a larger story: a politician laundering bribes through digital art, masking transactions as \"anonymous Bitcoin patrons.\"\nAnna was stunned. \nAs they dug deeper, they discovered the politician's campaign email—contact@unitedchange.org—and a personal Gmail, lance.morenopolitical@gmail.com. Tracing his aliases through purchase records, they connected his payments to Catalina's original whistleblowing work. \nThe final proof? A 6.4 BTC payment from Lance Moreno to an anonymized wallet now controlled by a silent partner—revealed in one of Catalina's leaked emails. \nAnna turned to Marcellus. \n\"This isn't just money laundering. This is state-level corruption.\"\n",
+  "entities": [
+    {
+      "startOffset": 33,
+      "endOffset": 41,
+      "type": "PERSON",
+      "text": "Catalina"
+    },
+    {
+      "startOffset": 191,
+      "endOffset": 201,
+      "type": "LOCATION",
+      "text": "Seychelles"
+    },
+    {
+      "startOffset": 342,
+      "endOffset": 346,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 422,
+      "endOffset": 446,
+      "type": "EMAIL",
+      "text": "contact@unitedchange.org"
+    },
+    {
+      "startOffset": 469,
+      "endOffset": 500,
+      "type": "EMAIL",
+      "text": "lance.morenopolitical@gmail.com"
+    },
+    {
+      "startOffset": 579,
+      "endOffset": 587,
+      "type": "PERSON",
+      "text": "Catalina"
+    },
+    {
+      "startOffset": 661,
+      "endOffset": 673,
+      "type": "PERSON",
+      "text": "Lance Moreno"
+    },
+    {
+      "startOffset": 752,
+      "endOffset": 760,
+      "type": "PERSON",
+      "text": "Catalina"
+    },
+    {
+      "startOffset": 778,
+      "endOffset": 782,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 793,
+      "endOffset": 802,
+      "type": "PERSON",
+      "text": "Marcellus"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "text": "Three weeks after the story broke, Anna received an encrypted message through her secure channel. The sender claimed to have additional documents linking the politician to offshore accounts. The message included a contact number: +420 775 123 456. Anna cross-referenced the Czech number against known associates. She also found a reference to a dark web forum where similar leaks had been posted: http://darkmatter7x4j3k.onion/forum/politics. The forum had been used to coordinate whistleblower communications. A secondary clearnet backup site was listed as https://whistleblower-archive.net/case-2024-lm. Anna documented everything carefully.",
+  "entities": [
+    {
+      "startOffset": 35,
+      "endOffset": 39,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 230,
+      "endOffset": 246,
+      "type": "PHONE",
+      "text": "+420 775 123 456"
+    },
+    {
+      "startOffset": 248,
+      "endOffset": 252,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 397,
+      "endOffset": 441,
+      "type": "URL",
+      "text": "http://darkmatter7x4j3k.onion/forum/politics"
+    },
+    {
+      "startOffset": 558,
+      "endOffset": 604,
+      "type": "URL",
+      "text": "https://whistleblower-archive.net/case-2024-lm"
+    },
+    {
+      "startOffset": 606,
+      "endOffset": 610,
+      "type": "PERSON",
+      "text": "Anna"
+    }
+  ]
+}

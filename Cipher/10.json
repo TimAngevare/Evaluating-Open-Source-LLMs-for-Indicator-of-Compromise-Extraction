@@ -1,0 +1,53 @@
+{
+  "text": "Marcellus forwarded Anna a technical analysis from his security contact. The document revealed that Lance Moreno's campaign infrastructure had been accessed from multiple suspicious IP addresses, including 185.220.101.47 and 192.168.15.203. The attacker appeared to be documenting evidence. More concerning was a TOX ID discovered in encrypted chat logs: 56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5. The ID had been used to coordinate the art gallery transactions. Marcellus noted that the same TOX ID appeared in communications with Catalina before she went silent.",
+  "entities": [
+    {
+      "startOffset": 0,
+      "endOffset": 9,
+      "type": "PERSON",
+      "text": "Marcellus"
+    },
+    {
+      "startOffset": 20,
+      "endOffset": 24,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 100,
+      "endOffset": 112,
+      "type": "PERSON",
+      "text": "Lance Moreno"
+    },
+    {
+      "startOffset": 206,
+      "endOffset": 220,
+      "type": "IP",
+      "text": "185.220.101.47"
+    },
+    {
+      "startOffset": 225,
+      "endOffset": 239,
+      "type": "IP",
+      "text": "192.168.15.203"
+    },
+    {
+      "startOffset": 355,
+      "endOffset": 431,
+      "type": "TOX",
+      "text": "56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5"
+    },
+    {
+      "startOffset": 498,
+      "endOffset": 507,
+      "type": "PERSON",
+      "text": "Marcellus"
+    },
+    {
+      "startOffset": 567,
+      "endOffset": 575,
+      "type": "PERSON",
+      "text": "Catalina"
+    }
+  ]
+}

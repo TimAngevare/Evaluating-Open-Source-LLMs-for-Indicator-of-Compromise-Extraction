@@ -1,0 +1,53 @@
+{
+    "text": "From: m.grant512@tuta.io\nTo: ahargrove92@pm.me\nThat wallet belongs to a journalist I met in Bucharest: Catalina Varga. She's off the radar, but if what she told me is true, someone's laundering funds through QR art in galleries across Europe. She trusted me with the canvas before she vanished.\nAnna did a quick search. Catalina Varga was known in cyber investigation circles. She had previously uncovered corruption networks in Eastern Europe. Then, three months ago—radio silence.\nShe wrote back:\nWe should contact her, if she's still reachable. Do you have an email?\n",
+    "entities": [
+        {
+      "startOffset": 6,
+      "endOffset": 24,
+      "type": "EMAIL",
+      "text": "m.grant512@tuta.io"
+    },
+    {
+      "startOffset": 29,
+      "endOffset": 46,
+      "type": "EMAIL",
+      "text": "ahargrove92@pm.me"
+    },
+    {
+      "startOffset": 92,
+      "endOffset": 101,
+      "type": "LOCATION",
+      "text": "Bucharest"
+    },
+    {
+      "startOffset": 103,
+      "endOffset": 117,
+      "type": "PERSON",
+      "text": "Catalina Varga"
+    },
+    {
+      "startOffset": 235,
+      "endOffset": 241,
+      "type": "LOCATION",
+      "text": "Europe"
+    },
+    {
+      "startOffset": 295,
+      "endOffset": 299,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 320,
+      "endOffset": 334,
+      "type": "PERSON",
+      "text": "Catalina Varga"
+    },
+    {
+      "startOffset": 429,
+      "endOffset": 443,
+      "type": "LOCATION",
+      "text": "Eastern Europe"
+    }
+    ]
+}

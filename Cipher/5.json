@@ -1,0 +1,41 @@
+{
+  "text": "The next day, she got a short reply from cv.editor@riseup.net:\nI'm safe. Watching. Cannot trust digital channels long. If you're serious, transfer 0.014 BTC to the wallet I used: bc1qt5vmgkz06c4q6z3trw8gkfj0y7n07gq5kzm68d. Include \"Anna Key\" in metadata, I'll respond.\nAnna relayed this to Marcellus. He didn't hesitate.\nHe logged into his digital wallet and transferred the requested funds. His own address: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh.\n\"Done,\" he said over a voice call, encrypted through Signal.\n",
+  "entities": [
+    {
+      "startOffset": 41,
+      "endOffset": 61,
+      "type": "EMAIL",
+      "text": "cv.editor@riseup.net"
+    },
+    {
+      "startOffset": 179,
+      "endOffset": 221,
+      "type": "BTC",
+      "text": "bc1qt5vmgkz06c4q6z3trw8gkfj0y7n07gq5kzm68d"
+    },
+    {
+      "startOffset": 232,
+      "endOffset": 238,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 269,
+      "endOffset": 273,
+      "type": "PERSON",
+      "text": "Anna"
+    },
+    {
+      "startOffset": 290,
+      "endOffset": 299,
+      "type": "PERSON",
+      "text": "Marcellus"
+    },
+    {
+      "startOffset": 409,
+      "endOffset": 451,
+      "type": "BTC",
+      "text": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+    }
+  ]
+}

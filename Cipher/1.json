@@ -1,0 +1,49 @@
+{ "text" : "When Anna Hargrove received the first email from her old college friend, she was sipping coffee in her Brooklyn apartment, staring at code on her laptop screen. The subject line read: Subject: Urgent. I need your eyes on this. From: marcellus.grant@protonmail.com To: anna.h@techparadox.io She frowned. It had been years since she’d spoken to Marcellus Grant. Once cryptography classmates, they had drifted apart after graduation. The body of the email was terse: Anna, I’ve come across something strange. A hash hidden inside a painting I bought in Prague. The data points to a Bitcoin wallet and a string of messages in hex. I think it’s related to an old whistleblower case. Can you take a look? -M P.S. Use my other address if this one feels hot: m.grant512@tuta.io",
+  "entities" : [ {
+    "startOffset" : 5,
+    "endOffset" : 18,
+    "type" : "PERSON",
+    "text" : "Anna Hargrove"
+  },
+  {
+    "startOffset" :  464,
+    "endOffset" :  468,
+    "type" : "PERSON",
+    "text" : "Anna"
+  },
+  {
+    "startOffset" :  102,
+    "endOffset" : 110,
+    "type" : "LOCATION",
+    "text" : "Brooklyn"
+  }, {
+    "startOffset" :  345,
+    "endOffset" : 358,
+    "type" : "PERSON",
+    "text" : "Marcellus Grant"
+  }, {
+    "startOffset" :  550,
+    "endOffset" :  556,
+    "type" : "LOCATION",
+    "text" : "Prague"
+  }, {
+    "startOffset" :  233,
+    "endOffset" :  263,
+    "type" : "EMAIL",
+    "text" : "marcellus.grant@protonmail.com"
+  },
+  {
+    "startOffset" :  268,
+    "endOffset" :  289,
+    "type" : "EMAIL",
+    "text" : "anna.h@techparadox.io"
+  },
+  {
+    "startOffset" :  751,
+    "endOffset" :  769,
+    "type" : "EMAIL",
+    "text" : "m.grant512@tuta.io"
+    }
+
+]
+}

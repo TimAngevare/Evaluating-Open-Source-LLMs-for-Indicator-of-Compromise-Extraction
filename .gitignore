@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# Except Jupyter notebooks
+!*.ipynb
+!ioc-annotator.html
+!Research_proposal.pdf
+
+# Allow cipher mails
+!Cipher/
+!Cipher/**
+
+# Allow results folder and all its contents
+!results/
+!results/**
+
+# And the gitignore itself
+!.gitignore
+The_Cipher_Trail.png
+The_Cipher_Trail.xlsx
+results/CLAUDE.md
